@@ -1,0 +1,2 @@
+# DOC
+https://phpstan.org

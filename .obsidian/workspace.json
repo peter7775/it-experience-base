@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "9a931a3df54b8120",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1f23b04218bbd12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85efc4693d79f33f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker/list processes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5f76bad520841952",
+    "type": "split",
+    "children": [
+      {
+        "id": "007feaaf692e36ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47fae7db1f25c5d5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "41e45b1f47e5427b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e00ace4ee493eb62",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 435.5
+  },
+  "right": {
+    "id": "5115754251560082",
+    "type": "split",
+    "children": [
+      {
+        "id": "49328b94547424ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f839411eea72d0f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Docker/list processes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "14ab5c28b352df7d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Docker/list processes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "16c8e2369556dc38",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8cb4229e777b747d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Docker/list processes.md"
+              }
+            }
+          },
+          {
+            "id": "ba33f4ffd4e864cf",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "9b907c3b72bc5bb6",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Otevřít rychlé přepínání": false,
+      "graph:Otevřít graf": false,
+      "daily-notes:Otevřít dnešní poznámku": false,
+      "templates:Vložit šablonu": false,
+      "command-palette:Otevřít paletu příkazů": false,
+      "canvas:Create new canvas": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-memos:Thino": false,
+      "obsidian-journey-plugin:Find Journey": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "85efc4693d79f33f",
+  "lastOpenFiles": [
+    "Design patterns/Mediator.md",
+    "Design patterns/Flyweight.md",
+    "Design patterns/Composite.md",
+    "Design patterns/Bridge.md",
+    "Design patterns/Abstract factory.md",
+    "Git/restore.md",
+    "_resources/decorator.png",
+    "_resources/bridge.png",
+    "_resources/abstract factory.png",
+    "metody/Konverze kvantifikátorů.md",
+    "metody/Logické obvody.md",
+    "metody/Untitled.md",
+    "historické epochy/současní/Clarence Irving Lewis.md",
+    "oblasti/neklasické logiky/Modální logika.md",
+    "literatura/knihy k sehnání.md",
+    "oblasti/neklasické logiky/Parakonzistentní logiky.md",
+    "oblasti/neklasické logiky/Vícehodnotové logiky - Many-valued Logics.md",
+    "oblasti/neklasické logiky/Intuicionistická logika.md",
+    "historické epochy/matematici a logici 20.stol/Kolmogorov.md",
+    "historické epochy/matematici a logici 20.stol/Heyting.md",
+    "historické epochy/matematici a logici 20.stol/Luitzen Egbertus Jan Brouwer.md",
+    "oblasti/Filosofie logiky.md",
+    "metody/Pravidla substituce - Rules of substitution.md",
+    "metody/Pravidla vyvozování - Rules of Inference.md",
+    "dokumenty/PROPOSITIONAL SYMBOLS LATEX OBSIDIAN.md",
+    "metody/Proof - důkaz.md",
+    "metody/Pravdivostní tabulka.md",
+    "metody/Karnaughovy mapy.md",
+    "metody/Formační strom.md",
+    "pojmy/paradoxy",
+    "metody",
+    "literatura/books to buy",
+    "literatura/my books",
+    "oblasti/neklasické logiky",
+    "matematika/Gödelovy_věty_o_neúplnosti.pdf",
+    "matematika/Cantorova_diagonální_metoda.pdf",
+    "pojmy/Aristotelské zákony",
+    "pojmy/Klasická logika",
+    "studium/LOG-23.pdf",
+    "Bez názvu.canvas",
+    "nancy-2.jpg",
+    "Untitled.canvas"
+  ]
+}

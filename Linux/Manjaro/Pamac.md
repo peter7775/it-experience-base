@@ -1,0 +1,1 @@
+[https://wiki.manjaro.org/index.php/Pamac](https://wiki.manjaro.org/index.php/Pamac)

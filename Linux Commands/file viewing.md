@@ -1,0 +1,10 @@
+# cat
+# less
+# head
+# tail
+# nl
+# od
+# xxd
+# gv
+# pv
+# xvdi

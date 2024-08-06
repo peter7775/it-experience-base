@@ -1,0 +1,1 @@
+`php bin/magento dev:di:info`

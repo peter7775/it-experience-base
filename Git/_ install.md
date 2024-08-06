@@ -1,0 +1,1 @@
+https://www.linuxcapable.com/how-to-install-configure-git-on-fedora-35/

@@ -1,0 +1,4 @@
+# xclock
+# cal
+# date
+# ntpdate

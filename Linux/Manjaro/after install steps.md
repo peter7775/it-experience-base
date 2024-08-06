@@ -1,0 +1,1 @@
+[https://itsfoss.com/things-to-do-after-installing-manjaro/](https://itsfoss.com/things-to-do-after-installing-manjaro/)

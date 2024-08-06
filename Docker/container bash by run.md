@@ -1,0 +1,1 @@
+`docker container run --interactive --tty name-of-image`

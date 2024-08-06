@@ -1,0 +1,1 @@
+`xfconf-query -c xfwm4 -p /general/activate_action -s none`

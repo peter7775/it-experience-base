@@ -1,0 +1,4 @@
+# host
+# whois
+# ping
+# traceroute

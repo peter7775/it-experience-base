@@ -1,0 +1,1 @@
+https://www.tecmint.com/open-port-for-specific-ip-address-in-firewalld/

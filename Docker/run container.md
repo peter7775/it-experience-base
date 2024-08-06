@@ -1,0 +1,1 @@
+`docker container run name-of-image`

@@ -1,0 +1,1 @@
+https://www.howtouselinux.com/post/ssh-known_hosts-file

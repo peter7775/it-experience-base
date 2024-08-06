@@ -1,0 +1,1 @@
+https://dunglas.dev/2022/01/json-columns-and-doctrine-dbal-3-upgrade/

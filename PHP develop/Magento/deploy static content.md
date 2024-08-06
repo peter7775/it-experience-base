@@ -1,0 +1,1 @@
+`php bin/magento setup:static-content:deploy`

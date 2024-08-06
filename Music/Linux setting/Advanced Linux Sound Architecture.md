@@ -1,0 +1,1 @@
+https://wiki.archlinux.org/title/Advanced_Linux_Sound_Architecture#Configuration

@@ -1,0 +1,1 @@
+`git config --global user.email [your email address here]`

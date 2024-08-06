@@ -1,0 +1,1 @@
+`bin/magento sampledata:deploy`
