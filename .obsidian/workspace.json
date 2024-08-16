@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/list processes.md",
+                "file": "Git/_init submodule.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/list processes.md",
+                "file": "Git/_init submodule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/list processes.md",
+                "file": "Git/_init submodule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/list processes.md"
+                "file": "Git/_init submodule.md"
               }
             }
           },
@@ -170,35 +170,35 @@
   },
   "active": "85efc4693d79f33f",
   "lastOpenFiles": [
-    "Design patterns/Mediator.md",
-    "Design patterns/Flyweight.md",
-    "Design patterns/Composite.md",
-    "Design patterns/Bridge.md",
-    "Design patterns/Abstract factory.md",
-    "Git/restore.md",
+    "Git/_ submodules.md",
+    "Git/_init submodule.md",
+    "Git/switch.md",
+    "Git/switch-1.md",
+    "Music/Linux setting/system configuration.md",
+    "Music/Linux setting/Advanced Linux Sound Architecture.md",
+    "Music/Linux setting/Jack.md",
+    "Music/Linux setting/enable MIDI port.md",
+    "MySQL/start mysql daemon without grant tables.md",
+    "MySQL/show users.md",
+    "MySQL/import, export SQL _ CLI.md",
+    "MySQL/create user.md",
+    "Networking/open VPN from cli.md",
+    "Networking/Network manager.md",
+    "Networking/HTTP Status Code.md",
+    "Networking/hosts on network.md",
+    "Networking/find IP adress.md",
+    "PHP develop/DDD architecture/articles about.md",
+    "Linux/Manjaro/zsh settings.md",
+    "Linux/Manjaro/system maintenance.md",
+    "Linux/Manjaro/stop application flowing through workspaces.md",
+    "Linux/Manjaro/Pamac.md",
+    "Linux/Manjaro/DDC monitor adjustment.md",
+    "Linux/Manjaro/cronie.md",
+    "Linux/Manjaro/config.md",
+    "Linux/Manjaro/base devel apps.md",
     "_resources/decorator.png",
     "_resources/bridge.png",
     "_resources/abstract factory.png",
-    "metody/Konverze kvantifikátorů.md",
-    "metody/Logické obvody.md",
-    "metody/Untitled.md",
-    "historické epochy/současní/Clarence Irving Lewis.md",
-    "oblasti/neklasické logiky/Modální logika.md",
-    "literatura/knihy k sehnání.md",
-    "oblasti/neklasické logiky/Parakonzistentní logiky.md",
-    "oblasti/neklasické logiky/Vícehodnotové logiky - Many-valued Logics.md",
-    "oblasti/neklasické logiky/Intuicionistická logika.md",
-    "historické epochy/matematici a logici 20.stol/Kolmogorov.md",
-    "historické epochy/matematici a logici 20.stol/Heyting.md",
-    "historické epochy/matematici a logici 20.stol/Luitzen Egbertus Jan Brouwer.md",
-    "oblasti/Filosofie logiky.md",
-    "metody/Pravidla substituce - Rules of substitution.md",
-    "metody/Pravidla vyvozování - Rules of Inference.md",
-    "dokumenty/PROPOSITIONAL SYMBOLS LATEX OBSIDIAN.md",
-    "metody/Proof - důkaz.md",
-    "metody/Pravdivostní tabulka.md",
-    "metody/Karnaughovy mapy.md",
-    "metody/Formační strom.md",
     "pojmy/paradoxy",
     "metody",
     "literatura/books to buy",
