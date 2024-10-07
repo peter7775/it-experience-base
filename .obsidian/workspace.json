@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/_init submodule.md",
+                "file": "PHP develop/Libraries/Package Repository Informations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5bcf566ce95b0c6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHPSpreedsheet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb0ba3c4e003cf60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Carban.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "458feb0750155873",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/services/services.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/_init submodule.md",
+                "file": "Linux/services/services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/_init submodule.md",
+                "file": "Linux/services/services.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/_init submodule.md"
+                "file": "Linux/services/services.md"
               }
             }
           },
@@ -168,34 +205,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "85efc4693d79f33f",
+  "active": "458feb0750155873",
   "lastOpenFiles": [
-    "Git/_ submodules.md",
+    "Linux/services/list of services.md",
+    "Linux/ssh/add passphrase to existing key.md",
+    "Linux/ssh/ssh config.md",
+    "GoLang/libraries/fiber.md",
+    "GoLang/libraries/net_http.md",
+    "GoLang/libraries/sync.md",
+    "GoLang/libraries/bufio.md",
     "Git/_init submodule.md",
-    "Git/switch.md",
-    "Git/switch-1.md",
-    "Music/Linux setting/system configuration.md",
-    "Music/Linux setting/Advanced Linux Sound Architecture.md",
-    "Music/Linux setting/Jack.md",
-    "Music/Linux setting/enable MIDI port.md",
-    "MySQL/start mysql daemon without grant tables.md",
-    "MySQL/show users.md",
-    "MySQL/import, export SQL _ CLI.md",
-    "MySQL/create user.md",
-    "Networking/open VPN from cli.md",
-    "Networking/Network manager.md",
-    "Networking/HTTP Status Code.md",
-    "Networking/hosts on network.md",
-    "Networking/find IP adress.md",
+    "Git/_ .gitignore.md",
+    "Git/_ gitflow.md",
+    "Git/_ ignore file mode (chmod) changes.md",
+    "Git/_ ignore file mode chmod changes.md",
+    "Git/_ install.md",
+    "Git/_ submodules.md",
+    "Git/_ user email.md",
+    "Git/_ user name.md",
+    "Git/_alias.md",
+    "PHP develop/generate encypted password.md",
+    "PHP develop/Nastavení práv _var_www_html.md",
+    "PHP develop/Libraries/Package Repository Informations.md",
+    "Carban.md",
+    "PHP develop/Libraries/Rector.md",
+    "Bez názvu.md",
+    "PHPSpreedsheet.md",
     "PHP develop/DDD architecture/articles about.md",
-    "Linux/Manjaro/zsh settings.md",
-    "Linux/Manjaro/system maintenance.md",
-    "Linux/Manjaro/stop application flowing through workspaces.md",
-    "Linux/Manjaro/Pamac.md",
-    "Linux/Manjaro/DDC monitor adjustment.md",
-    "Linux/Manjaro/cronie.md",
-    "Linux/Manjaro/config.md",
-    "Linux/Manjaro/base devel apps.md",
+    "SSL",
+    "Docker/execute container bash.md",
     "_resources/decorator.png",
     "_resources/bridge.png",
     "_resources/abstract factory.png",
@@ -208,7 +246,6 @@
     "matematika/Cantorova_diagonální_metoda.pdf",
     "pojmy/Aristotelské zákony",
     "pojmy/Klasická logika",
-    "studium/LOG-23.pdf",
     "Bez názvu.canvas",
     "nancy-2.jpg",
     "Untitled.canvas"
