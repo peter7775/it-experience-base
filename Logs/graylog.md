@@ -1,0 +1,1 @@
+https://go2docs.graylog.org/5-0/home.htm

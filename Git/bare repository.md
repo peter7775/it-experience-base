@@ -1,0 +1,1 @@
+https://www.saintsjd.com/2011/01/what-is-a-bare-git-repository/
