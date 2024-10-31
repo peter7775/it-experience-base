@@ -3,10 +3,10 @@
 `sudo ufw allow 4000`
 ## firewalld (CentoOS)
 
-`firewall-cmd --add-port===4000==/tcp`
+`firewall-cmd --add-port 4000/tcp`
 ## iptables
 
-`iptables -A INPUT -p tcp --dport ==4000== -j ACCEPT`
+`iptables -A INPUT -p tcp --dport4000 -j ACCEPT`
 ## test port for connection
 
 `ls | nc -l -p 4000`

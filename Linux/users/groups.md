@@ -89,7 +89,7 @@ Linux comes with several different groups by default. Some of these, like the su
 
 To view a list of groups on your system by displaying the /etc/groups file:
 
-`sudo nano /etc/groups`
+`sudo  vim /etc/groups`
 
 fedora:
 `cut -d: -f1 /etc/group`

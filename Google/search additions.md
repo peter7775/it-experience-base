@@ -4,7 +4,7 @@ search on a specific site
 
 `filetype:`
 
-serach any specific filetypes
+search any specific file types
 
 `AFTER:, BEFORE:`
 
@@ -20,7 +20,7 @@ search images in particular size
 
 `*`
 
-the wildcart could fit in any query in which some part is missing
+the wildcard could fit in any query in which some part is missing
 
 `"......."`
 
