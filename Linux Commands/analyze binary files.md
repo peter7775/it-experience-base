@@ -1,22 +1,22 @@
-# file
+## file
 
-# ldd
+## ldd
 
-# ltrace
+## ltrace
 
-# hexdump
+## hexdump
 
-# strings
+## strings
 
-# readelf
+## readelf
 
-# objdump
+## objdump
 
-# strace
+## strace
 
-# nm
+## nm
 
-# gdb
+## gdb
 
 
 

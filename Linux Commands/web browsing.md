@@ -1,6 +1,6 @@
-# mozilla
-# lynx
-# wget
-# curl
+## mozilla
+## lynx
+## wget
+## curl
 everything.curl.dev
 deaniel.haxx.de

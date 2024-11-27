@@ -7,7 +7,7 @@
 
 * * *
 
-# root filesystem:
+## root filesystem:
 
 - /bin
 - /dev
@@ -23,7 +23,7 @@
 - /usr
 - /var
 
-# /usr filesystem
+## /usr filesystem
 
 - /usr/X11R6
 - /usr/bin
@@ -33,7 +33,7 @@
 - /usr/share
 - /usr/src
 
-# /var filesystem
+## /var filesystem
 
 - /var/account
 - /var/cache
@@ -49,7 +49,7 @@
 - /var/tmp
 - /var/yp
 
-# binary file locations
+## binary file locations
 
 | Type of file                                    | User commands  | System administration commands |
 | ----------------------------------------------- | -------------- | ------------------------------ |

@@ -1,4 +1,4 @@
-# Linux Signals
+## Linux Signals
 
 |     |     |
 | --- | --- |

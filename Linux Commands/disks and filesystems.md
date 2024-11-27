@@ -1,4 +1,4 @@
-# df
+## df
 
 disk available space on mounted filesystems
 shows you the size, used space, adn free space on a given disk partition
@@ -16,11 +16,11 @@ shows you the size, used space, adn free space on a given disk partition
 | x *type* | don't display filesystem of given type                                                       |
 | i        | inode mode; display total, used, and free inodes for each filesystem, instead of disk blocks |
 
-# mount
+## mount
 
 mounts a device to a location
 
-# umount
+## umount
 
 unmounts a device
 
@@ -34,23 +34,23 @@ unmounts a device
 
 
 
-# mounting MTP devices
+## mounting MTP devices
 
 https://www.baeldung.com/linux/mounting-mtp-devices
 
-# lsof
+## lsof
 
 lists the processes accessing a filesystem
 
-# lsblk
+## lsblk
 
 lists the type and UUID of a filesystem
 
-# fsck
+## fsck
 
-# sync
+## sync
 
-# partioning and formating disks
+## partioning and formating disks
 
 ## parted
 

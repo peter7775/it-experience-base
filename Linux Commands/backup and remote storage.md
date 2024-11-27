@@ -1,9 +1,9 @@
-# mt
-# dump
-# restore
-# tar
-# cdrecord
-# rsync
+## mt
+## dump
+## restore
+## tar
+## cdrecord
+## rsync
 
 ### archive mode (-a or --archive)
 It's all of these:

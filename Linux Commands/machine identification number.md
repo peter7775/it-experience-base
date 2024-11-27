@@ -1,5 +1,5 @@
-# dbus-uuidgen
+## dbus-uuidgen
 
-dbus-uuidgen --ensure
+`dbus-uuidgen --ensure`
 
-dbus-uuidgen --get
+`dbus-uuidgen --get`

@@ -1,4 +1,4 @@
-# Exit status code
+## Exit status code
 
 |  code   |     |
 | --- | --- |

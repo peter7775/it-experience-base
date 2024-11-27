@@ -1,7 +1,7 @@
-# emacs
-# vi
-# vim
-# umask
-# soffice
-# abiword
-# gnumeric
+## emacs
+## vi
+## vim
+## umask
+## soffice
+## abiword
+## gnumeric

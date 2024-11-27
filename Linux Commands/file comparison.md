@@ -1,4 +1,4 @@
-# diff
-# comm
-# cmp
-# md5sum
+## diff
+## comm
+## cmp
+## md5sum

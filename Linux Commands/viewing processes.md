@@ -1,6 +1,6 @@
-# ps
-# uptime
-# w
-# top
-# xload
-# free
+## ps
+## uptime
+## w
+## top
+## xload
+## free

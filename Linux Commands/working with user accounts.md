@@ -1,10 +1,10 @@
-# useradd
+## useradd
 
 #### Create a New User and Assign Groups in One Command
 `sudo useradd -g users -G wheel,developers nathan`
 
-# userdel
-# usermod
+## userdel
+## usermod
 #### Add an Existing User to a Group
 `sudo usermod -a -G groupname username`
 
@@ -14,20 +14,20 @@
 
 #### Change a User’s Primary Group 
 `sudo usermod -g groupname username`
-# passwd
+## passwd
 
-# gpasswd
+## gpasswd
 #### Remove a User From a Group
  
  `sudo gpasswd -d username groupname`
-# chfn
-# chsh
+## chfn
+## chsh
 
-# id
+## id
 #### Display User Groups
 `id username`
 
-# groups
+## groups
 #### Display User Groups
 `groups linuxize`
 

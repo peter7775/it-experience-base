@@ -1,9 +1,9 @@
-# groups
-# groupadd
+## groups
+## groupadd
 
 `sudo groupadd groupname`
-# groupdel
+## groupdel
 
 `sudo groupdel groupname`
-# groupmod
+## groupmod
 

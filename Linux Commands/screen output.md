@@ -1,5 +1,5 @@
-# echo
-# printf
-# yes
-# seq
-# clear
+## echo
+## printf
+## yes
+## seq
+## clear

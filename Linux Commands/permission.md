@@ -1,4 +1,4 @@
-# LinuxPermission Code
+## LinuxPermission Code
 
 |           | binary | octal |                                    |
 | --------- | ------ | ----- | ---------------------------------- |
@@ -13,7 +13,7 @@
 
 * * *
 
-# special permissions: the setuid, setgid and sticky bits
+## special permissions: the setuid, setgid and sticky bits
 
 ### setuid
 
@@ -39,7 +39,7 @@ https://linuxconfig.org/how-to-use-special-permissions-the-setuid-setgid-and-sti
 
 * * *
 
-# umask
+## umask
 
 `umask [-S] [mask]`
 

@@ -1,20 +1,20 @@
-# grep
+## grep
 
-# egrep
+## egrep
 
-# fgrep
+## fgrep
 
-# cut
+## cut
 
-# paste
+## paste
 
-# tr
+## tr
 
-# sort
+## sort
 
-# uniq
+## uniq
 
-# tee
+## tee
 
 copies standard input to snadard ouput, and simultaneously to one or more files
 
@@ -28,10 +28,10 @@ print the sorted output of who to standard ouput, also write the original who ou
 | -a      | append to file          |
 | -i      | ignore interupt signals |
 
-# MORE POWERFULL MANIPULATION
+# more powerfull manipulation
 
-# awk
+## awk
 
-# sed
+## sed
 
-# m4
+## m4

@@ -1,4 +1,4 @@
-# units
+## units
 - currency calculator
 
 ```
@@ -11,7 +11,7 @@ To update the exchange rates:
 `sudo units_cur`
 
 
-# gnome-calculator
+## gnome-calculator
 
 
 * * *

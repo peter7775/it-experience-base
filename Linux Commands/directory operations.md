@@ -1,7 +1,7 @@
-# cd
-# pwd
-# basename
-# dirname
-# mkdir
-# rmdir
-# rm -r
+## cd
+## pwd
+## basename
+## dirname
+## mkdir
+## rmdir
+## rm -r

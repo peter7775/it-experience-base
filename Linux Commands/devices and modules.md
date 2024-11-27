@@ -1,8 +1,8 @@
-# lsdev
+## lsdev
 
 display inrformation about system hardware, such as interrupt adresses and I/O ports
 
-# lspci
+## lspci
 
 display information about PCI buses and installed PCI devices
 
@@ -11,15 +11,15 @@ display information about PCI buses and installed PCI devices
 | -t      | treelike diagram containing all buses, bridges, devices, and connections between them |
 | -vv     | very verbose mode |
 
-# lsusb
+## lsusb
 
 list of devices by tree of physically connection
 
-# lsmod
+## lsmod
 
 
-# modprobe
+## modprobe
 
 unload module `modprobe -r`
 
-# modinfo
+## modinfo

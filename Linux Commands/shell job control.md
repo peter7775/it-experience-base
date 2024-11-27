@@ -1,6 +1,6 @@
-# jobs
-# &
+## jobs
+## &
 # ^Z
-# suspend
-# fg
-# bg
+## suspend
+## fg
+## bg

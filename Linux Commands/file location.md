@@ -1,4 +1,4 @@
-# find
+## find
 
 `find [options] [path...] [expression]`
 
@@ -52,8 +52,8 @@
 https://linuxize.com/post/how-to-find-files-in-linux-using-the-command-line/
 
 
-# locate
-# slocate
-# which
-# type
-# whereis
+## locate
+## slocate
+## which
+## type
+## whereis

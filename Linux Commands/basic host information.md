@@ -1,11 +1,11 @@
-# uname
-# hostname
-# dnsdomainname
+## uname
+## hostname
+## dnsdomainname
 same as hostname -d
-# domainname
+## domainname
 same as hostname -y
-# nismainname
+## nismainname
 same as hostname -y
-# ypdomainname
+## ypdomainname
 same as hostname -y
-# ifconfig
+## ifconfig
