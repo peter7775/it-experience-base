@@ -1,6 +1,6 @@
-# IT znalostní báze 
-Easy to read, and work with - collection of IT knowledge, which is usefull for every day work. 
+# IT knowledge collection
+Easy to read, and work with - collection of IT knowledge, which is usefull for every day developerwork.  Sorted in folders, focusing on different areas, constantly updated collection
+
 ## Write and collect in Obsidian
 
-Kolekce praktických IT znalostí pro každodenní programátorskou praxi
-## Spravováno v Obsidianu, jako kolekce MD souborů
+
