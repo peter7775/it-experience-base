@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Github/fork (work with).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "fork (work with)"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "IP",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +117,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Hledat"
+              "title": "Search"
             }
           },
           {
@@ -242,6 +242,28 @@
   },
   "active": "19667e12d3d1c08e",
   "lastOpenFiles": [
+    "Linux/Manjaro/config.md",
+    "Linux/Manjaro/AUR repos.md",
+    "Linux/Manjaro/after install steps.md",
+    "Vim/at start/vim file +number.md",
+    "Music/Linux setting/enable MIDI port.md",
+    "Music/Linux setting/Advanced Linux Sound Architecture.md",
+    "Ansible/Windows playbook.md",
+    "Ansible/installation on Windows.md",
+    "Github/fork (work with).md",
+    "Git/_push.autoSetupRemote.md",
+    "Github",
+    "Git/_ user email.md",
+    "Testing/Cypress.md",
+    "Networking/SSH/ssh copy files by rsync.md",
+    "Testing",
+    "Linux Commands/backup and remote storage.md",
+    "Linux Commands/controlling processes.md",
+    "Linux Commands/disks and filesystems.md",
+    "Networking/Ports/ports in use.md",
+    "Linux Commands/shell job control.md",
+    "Linux Commands/scheduling jobs.md",
+    "README.md",
     "MongoDB/import, export MongoDB.md",
     "Neo4j",
     "ReactJS/accessibility.md",
@@ -249,26 +271,6 @@
     "SSL/generate self signed SSL key and certification.md",
     "Shell programming/The test String Comparisons.md",
     "Shell programming/The test Numeric Comparisons.md",
-    "Shell programming/The test File Comparisons.md",
-    "Shell programming/The fdisk commands.md",
-    "Shell programming/Linux Standart File Descriptors.md",
-    "Shell programming/Linux Signals.md",
-    "Shell programming/Linux File Permission Code.md",
-    "Shell programming/Exit status code.md",
-    "Shell programming/Common Linux Command Line Option.md",
-    "Shell programming/Commnand Line Programs to Create Filesystems.md",
-    "Shell programming/Array.md",
-    "search engines/google search additions.md",
-    "GoLang/types/Arrays.md",
-    "GoLang/types/Interfaces.md",
-    "GoLang/types/Slices.md",
-    "GoLang/libraries/io.md",
-    "GoLang/libraries/fmt.md",
-    "GoLang/libraries/fiber.md",
-    "GoLang/libraries/encoding_json.md",
-    "GoLang/libraries/bufio.md",
-    "Linux Commands/alien _ install deb package.md",
-    "Linux Commands/_proc.md",
     "Networking/SSH",
     "Networking/Ports",
     "Logs",
@@ -279,8 +281,6 @@
     "pojmy/paradoxy",
     "metody",
     "literatura/books to buy",
-    "literatura/my books",
-    "oblasti/neklasické logiky",
     "Bez názvu.canvas",
     "nancy-2.jpg",
     "Untitled.canvas"
